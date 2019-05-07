@@ -1,0 +1,26 @@
+1.Install truffle and an ethereum client. For local development, try EthereumJS TestRPC.
+
+ npm install -g truffle
+ npm install -g ethereumjs-testrpc
+
+2.Download box.
+
+ truffle unbox tutorialtoken
+
+3. start testrpc with balance fund to metamask account
+$ testrpc --account"<private key>,<balance>"
+
+3.Compile and migrate the contracts.
+ truffle.cmd compile
+ truffle.cmd migrate
+
+4.Run the liteserver development server for front-end hot reloading. For now, smart contract changes must be manually recompiled and migrated.
+
+ npm run dev
+====
+test with metamask. install metamask extention. choose localhost:8545. export private key and coppy
+to fund eth to metamask account, run: 
+$ testrpc --account"<private key>,<balance>"
+/////////////////////////
+http://truffleframework.com/boxes/tutorialtoken
+http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin

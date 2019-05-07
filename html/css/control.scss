@@ -1,0 +1,109 @@
+.btn {
+  &.disabled {
+    opacity: 0.3;
+    cursor: default;
+    pointer-events: none;
+  }
+  &.btn-custom {
+    cursor: pointer;
+    background-color: #ff9a00;
+    padding: 10px 23px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    transition: background-color .5s;
+    color: #fff !important;
+    &:hover {
+      background-color: #ff9a00 !important;
+    }
+  }
+  &.btn-presale {
+    cursor: pointer;
+    background-color: #337ab7;
+    margin: 10px;
+    padding: 15px 40px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 600;
+    transition: all .5s;
+    color: #fff !important;
+    &:hover {
+      color: #337ab7 !important;
+      background-color: #fff !important;
+      border: 1px solid #337ab7;
+    }
+  }
+  &.btn-wp {
+    cursor: pointer;
+    background-color: #237485;
+    margin-top: 50px;
+    padding: 20px 50px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 27px;
+    font-weight: 600;
+    transition: all .5s;
+    color: #fff !important;
+    &:hover {
+      color: #237485 !important;
+      background-color: #fff !important;
+      border: 1px solid #237485;
+    }
+  }
+  &.btn-ok,
+  &.btn-subscribe {
+    cursor: pointer;
+    background-color: #237485;
+    padding: 10px 23px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    transition: all .5s;
+    color: #fff !important;
+    &:hover {
+      color: #237485 !important;
+      background-color: #fff !important;
+      border: 1px solid #237485;
+    }
+  }
+
+}
+
+
+input[type="text"] {
+  &.required {
+    &::placeholder {
+      color: #237485;
+    }
+  }
+  margin-bottom: 0px;
+  border: none;
+  border-bottom: 1px solid #237485;
+  border-radius: 0px;
+  box-shadow: none;
+  -webkit-box-shadow: none ;
+  -moz-box-shadow: none;
+  &:focus {
+    outline: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+  }
+}
+
+.checkbox input[type=checkbox] {
+  margin-left: -25px;
+}
+
+a {
+  color: #ff9a00;
+}
+.btn-close-dialog {
+  float: right;
+  cursor: pointer;
+  font-size: 40px;
+  margin-top: -15px;
+}

@@ -1,0 +1,47 @@
+.code {
+  .container {
+    margin-top: 20px;
+    text-align: center;
+    .content {
+      text-align: left;
+      .row {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        .item {
+          //width: 170px;
+          height: 170px;
+          background-color: white;
+          border: 1px solid #dddddd;
+          text-align: center;
+          margin: auto;
+          margin-bottom: 20px;
+          cursor: pointer;
+          &:hover {
+            opacity: 0.7;
+          }
+          img {
+            //margin: 10px;
+          }
+          p {
+            margin-top: 10px;
+            margin-bottom: 10px;
+          }
+          .stat {
+            margin-bottom: 20px;
+            .star {
+              float: left;
+              img {
+                margin: 3px;
+              }
+            }
+            .price {
+              margin-right: 0px;
+              text-align: right;
+              width: 70px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

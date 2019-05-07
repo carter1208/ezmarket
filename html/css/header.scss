@@ -1,0 +1,151 @@
+$menu-border-color: transparent;
+$menu-bg: #1e2e3b;//rgba(255,255,255,1);
+$menu-color: #31708f;
+$menu-color-hover: #ff9a00;
+$menu-bg-hover: transparent;
+$menu-dd-color:#fff;
+$menu-dd-color-hover:#fff;
+$menu-dd-bg:transparent;
+$menu-dd-bg-hover:#46ccff;
+
+@media (max-width: 768px) {
+  .btn-buy {
+    max-width: 100px;
+  }
+}
+.ezm {
+  .header {
+    .btn-bounty {
+      padding: 10px 23px;
+      border-radius: 3px;
+      color: $menu-color !important;
+      background-color: transparent !important;
+      &:hover {
+        color: $menu-color-hover !important;
+      }
+      &:focus {
+        outline: none;
+      }
+    }
+    .btn-demo {
+      background-color: #ff9a00;
+      padding: 10px 23px;
+      border-radius: 3px;
+      text-transform: uppercase;
+      font-size: 12px;
+      font-weight: 600;
+      transition: background-color .5s;
+      color: #fff !important;
+      &:hover {
+        background-color: #ff9a00 !important;
+      }
+    }
+    .navbar-inverse {
+      font-family: 'Open Sans', sans-serif;
+      background-color: $menu-bg;
+      border-color: $menu-border-color;
+      font-size: 15px;
+      //letter-spacing: 4px;
+      border-radius: 0;
+      padding: 15px 0px;
+      box-shadow: 5px 5px 30px 0px rgba(0, 0, 0, 0.3);
+        img {
+          margin-top: -12px;
+          color: white;
+          font-size: 40px;
+          height: 35px;
+          margin-right: -2px;
+        }
+        .logo {
+          //font-family: Megrim;
+          cursor: pointer;
+          font-size: 40px;
+        }
+      .navbar-brand {
+        color: $menu-color;
+        height: 40px;
+        //padding: 0px;
+        //&:hover,
+        //&:focus {
+        //  color: $menu-color-hover;
+        //  background-color: $menu-bg-hover;
+        //}
+      }
+      .navbar-text {
+        color: $menu-color;
+      }
+      .navbar-nav {
+        > li > a {
+          cursor: pointer;
+          color: $menu-color;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          margin-left: 10px;
+          &:hover,
+          &:focus {
+            color: $menu-color-hover;
+            background-color: $menu-bg-hover;
+          }
+        }
+        .active {
+          a, a:hover, a:focus {
+            color: $menu-color-hover;
+            background-color: $menu-bg-hover;
+          }
+        }
+        .open {
+          a, a:hover, a:focus {
+            color: $menu-color-hover;
+            background-color: $menu-bg-hover;
+          }
+          .dropdown-menu {
+            > .dropdown-header {
+              border-color: $menu-border-color;
+            }
+            .divider {
+              background-color: transparent;
+            }
+            > li > a {
+              color: $menu-dd-color;
+            }
+            > li > a:hover,
+            > li > a:focus {
+              color: $menu-dd-color-hover;
+              background-color: $menu-dd-bg-hover;
+            }
+
+            > .active > a,
+            > .active > a:hover,
+            > .active > a:focus {
+              color: $menu-dd-color-hover;
+              background-color: $menu-dd-bg-hover;
+            }
+
+          }
+        }
+      }
+      .navbar-toggle {
+        border-color: $menu-color;
+        &:hover,
+        &:focus {
+          background-color: $menu-bg-hover;
+        }
+        .icon-bar {
+          background-color: $menu-color;
+        }
+      }
+      .navbar-link {
+        color: $menu-color;
+        &:hover {
+          color: $menu-color-hover;
+        }
+      }
+
+    }
+    .navbar-inverse .navbar-toggle
+    .navbar-inverse .navbar-collapse,
+    .navbar-inverse .navbar-form {
+      border-color: #101010;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+.popup{
+  width:200px;
+  heigth:200px;
+  background-color: #aaa;
+  text-align:center;
+}
+=======
+.popupContainer{
+    .product{
+        display: inline-block;
+        .social{
+            .preview{
+                a{
+                    color: white;
+                    background-color: #aaa;
+                }
+                a:hover{
+                    background-color: #0084b4;
+                }
+                .fullscreen{
+                    a{
+                        width: 100px;
+                    }
+                }
+                .item-social{
+                    a{
+                        margin-right: 2px;
+                    }
+                    .fa{
+                        width: 30px;
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+}
+>>>>>>> ab7d4d586c7a3dc1c01c22067d9540b153e16892

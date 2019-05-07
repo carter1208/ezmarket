@@ -1,0 +1,14 @@
+.ReactModalPortal {
+  .btn {
+    cursor: pointer;
+  }
+  .btn-group {
+    width: 100%;
+    text-align: center;
+    >.btn {
+      float: none;
+    }
+  }
+}
+
+

@@ -1,0 +1,43 @@
+.theme {
+  .container {
+    .row {
+      text-align: center;
+      .col-sm-6 {
+        .item {
+          width: 370px;
+          height: 260px;
+          margin: auto;
+          background-color: white;
+          border-radius: 10px;
+          img {
+            border: 1px solid #d4d4d4;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 16px;
+          }
+          img:hover {
+            opacity: 0.8;
+          }
+          p {
+            font-weight: bold;
+            float: left;
+            margin-left: 20px;
+            color: #0084b4;
+          }
+          span {
+            float: right;
+            margin-right: 20px;
+            color: #0b0b0b;
+          }
+        }
+      }
+    }
+    .signup {
+      text-align: center;
+      background-color: #454545;
+      .container-signup h1, h2 {
+        color: white;
+      }
+    }
+  }
+}

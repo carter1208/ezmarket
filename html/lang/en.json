@@ -1,0 +1,111 @@
+{
+  "menu": {
+    "home": "Home",
+    "token": "Token",
+    "roadmap": "Roadmap",
+    "bounty": "Bounty"
+  },
+  "button": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "close": "Close",
+    "presale": "Join Presale",
+    "demo": "Demo App",
+    "subscribe": "Subscribe"
+  },
+  "home": {
+    "title": "EZMarket",
+    "content": "We call it Easy Marketplace . The first digital marketplace based on blockchain technology. We want to create a marketplace where you can buy or sell all assets for project development (code scripts, templates, plugins, photos,...) on the easiest way. Payment will very fast, simple and safe with cryptocurrency"
+  },
+  "countdown": {
+    "title": "EZM Token sale start on Saturday, October 14, 2017 10:00:00 AM (GMT)",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds"
+  },
+  "subscribe": {
+    "title": "Subscribe for News, Updates and Exclusive Offers!",
+    "email": "Enter your email",
+    "thanks": "Thank you! We need to confirm your email address. To complete the subscription process, please click the link in the email we just sent you."
+  },
+  "presale": {
+    "title": "Token Presale",
+    "desc": "Participation in EZMarket token presale gives you the unique opportunity to buy a large number of tokens individually and with no waiting period. Please, read the terms below before decide to participate in EZMarket token presale",
+    "terms": "During the presale period, the token will be priced at 1 ETH = 1500 EZM. There are no refunds or cancellations and you cannot transfer your tokens until the ICO is over. You have to send ETH funds from your personal Ethereum wallets that you own the private keys (like MyEtherWallet, Metamask, Parity, Mist or Ledger). DO NOT send funds from exchanges (Bittrex, Poloniex,...). We are not responsible for any such losses",
+    "acceptment": "I have read and agree to the terms of the EZM Token Pre-sale.",
+    "join": "Join now"
+  },
+  "crowdsale": {
+    "title": "Token Sale is now live !",
+    "end": "Token Sale is over",
+    "rate": "Current rate is: ",
+    "address": "Please send ETH to below address",
+    "note1": "You have to send ETH funds from your personal Ethereum wallets that you own the private keys (like MyEtherWallet, Metamask, Parity, Mist or Ledger)",
+    "note2": "DO NOT send funds from exchanges like Bittrex, Poloniex etc",
+    "note3": "Set Gas Limit to 250 000 (during high-load network)"
+  },
+  "buysell": {
+    "title": "Everything comes to the easiest with EZMarket",
+    "upload": "You want to sell? Upload your assets. No bank, no credit card, no personal information require. Almost you just need a cryptocurrency address",
+    "payment": "You want to buy? Buy everything you need with few click. Send coin and you get assets",
+    "goal": "Our goal is create a conveniently and easily marketplace for user",
+    "easy": "Easy",
+    "fast": "Fast",
+    "safe": "Safe",
+    "privacy": "Privacy"
+  },
+  "token_holder": {
+    "title": "TOKEN HOLDER",
+    "desc": "Company will take fees on sold assets. This revenue will be shared to all token holders. EZM token also can trade on some exchanges (HitBTC, EtherDelta, Cryptopia)"
+  },
+  "distribution": {
+    "title": "TOKEN SALE",
+    "distribution": "Tokens Distribution",
+    "token_name": "Token name",
+    "token_symbol": "Token symbol",
+    "start_date": "Start date",
+    "end_date": "End date",
+    "max_cap": "Max cap",
+    "min_goal": "Min goal",
+    "accept_currency": "Accept currency",
+    "rate": "Rate",
+    "bonus": "Bonus",
+    "week1": "Week 1",
+    "week2": "Week 2",
+    "week3": "Week 3",
+    "week4": "Week 4",
+    "week5": "Week 5",
+    "after": "After Week 5",
+    "no_bonus": "No bonus",
+    "token-allocation": "Allocation of tokens",
+    "crowd_sale": "Crowdsale",
+    "company": "Company",
+    "bounty_program": "Bounty program",
+    "fund_raise": "Distribution of funds",
+    "development": "Development",
+    "marketing": "Marketing",
+    "operation": "Operation",
+    "reserve": "Reserve"
+  },
+  "roadmap": {
+    "title": "ROADMAP",
+    "q4_2016": "Idea",
+    "q1_2017": "Technical Research: Blockchain technology, Ethereum smart contract",
+    "q2_2017": "",
+    "q3_2017": "ICO: Build ICO site, Create smart contract for token sale, Presale, Crowdsale",
+    "q4_2017": "Development phase 1: Build core framework, Design database, APIs",
+    "q1_2018": "Development phase 2: Focus on main functions for author: account management, content management, publish item to sell",
+    "q2_2018": "Development phase 3: Focus on main functions for buyer: account management, preview item, buy item",
+    "q3_2018": "Development phase 4: Integrate payment method",
+    "q4_2018": "Alpha test",
+    "q1_2019": "Release"
+  },
+  "team": {
+    "title": "TEAM MEMBERS"
+  },
+  "footer": {
+    "join": "Community channel",
+    "copyright": "Copyright © 2017"
+  }
+}

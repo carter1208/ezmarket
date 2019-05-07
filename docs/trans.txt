@@ -1,0 +1,132 @@
+﻿1. Tóm tắt
+======================================
+ezm là một  global marketplace solution. chúng tôi tập trung vào tính năng thanh toán dựa trên công nghệ blockchain
+Trong bài này chúng tôi sẽ giới thiệu về dự án ezm, tính năng và mục tiêu của dự án.
+Thông tin về ico và những lợi ích cho nhà đầu tư trong tương lai.
+
+1. abstract
+ezm is a global marketplace solution.
+We serve for trading digital assets: code script, plugin, tutorial guides, themes, templates, photos,...
+everything that you can buy and sell over internet.
+We focus on payment feature, make it become easiest based on blockchain technology.
+In this article we will introduce the project ezm, features and objectives of the project.
+Information on ico and its benefits to future investors.
+
+2. gioi thieu
+nếu bạn là một nhà phát triển phần mềm hay một công ty sản xuất nội dung trên internet, 
+chắc hẳn bạn đã từng ít nhất một lần muốn mua một đoạn code nào đó, hoặc một bài hướng dẫn, hoặc là một vài mẫu website đẹp mà bạn không có khả năng hoặc không đủ thời gian để tạo ra chúng.
+thậm chí cho dù bạn không phải là một nhà phát triển phần mềm thì cũng có nhiều khi bạn cần mua một thứ gì đó cho công việc của bạn như 1 tấm hình chụp, một icon hay một câu slogan chẳng hạn.
+vì thế mà thị trường mua và bán code, digital content rõ ràng là rất lớn.
+Nhưng cho đến hiện tại thì những nhà cung cấp dịch vụ này vẫn đang cung cấp cho user một quy trình khá phức tạp và mất nhiều công sức để tham gia vào hệ thống mua hoặc bán sản phẩm của họ, 
+chủ yếu là do phương thức thanh toán.
+Chúng tôi là những nhà phát triển phần mềm nhiều năm. Đã từng tham gia vào một số dịch vụ mua bán như thế này nên chúng tôi hiểu rất rõ những khó khăn mà user gặp phải khi muốn tham gia vào hệ thồng.
+Vì vậy, mục tiêu của chúng tôi là tạo ra một quy trình mua bán tiện lợi nhanh chóng và dễ dàng cho user. 
+Với sự phát triển và phổ biến của thị trường tiền mã hóa hiện nay thì điều đó là hoàn toàn có thể.
+
+2.introdution
+If you are a software developer or an internet content maker,
+You probably have at least once wanted to buy some code scripts, or a tutorial, or some beautiful website templates that you can not afford or do not have time to do yourself.
+Even if you are not a software developer, sometimes you need to buy something for your work such as a photo, an icon or a video clip...
+So the market for buying and selling digital content is obviously huge.
+But until now, all service providers are still providing to users with a complex and painstaking process to engage in the buying or selling,
+Mostly due to payment method.
+We are software developers for many years. We having been involved in some of marketplaces, we understand the difficulties to that users face when they want to join the system.
+Therefore, our goal is to create a convenient and fast shopping process for our users.
+With the development and popularity of the cryptocurrency, It is entirely possible.
+
+3. Giá trị
+User: Mục tiêu của chúng tôi là tạo ra một nền tảng giao dịch thuận lợi và dễ dàng cho mọi người. 
+Do vậy, khi sử dụng dịch vụ ezm, bạn sẽ không cần cung cấp quá nhiều thông tin như những dịch vụ khác, không cần tài khoản ngân hàng, thẻ thanh toán, paypal,... cái duy nhất cần cung cấp là một địa chỉ cryptocurrency để giao dịch
+Nhờ áp dụng phương thức thoanh toán mới nên chúng tôi sẽ giảm thiểu được rất nhiều chi phí cho hệ thống thanh toán. 
+Vì vậy phí tác giả sẽ được giảm đi rất nhiều so với các dịch vụ hiện hành. Điều này sẽ có lợi cho cả tác giả lẫn người mua. Giúp tăng số lương người dùng tăng lợi nhuận cho nhà đầu tư.
+Nhà đầu tư: ezm sẽ thu phí trên mỗi sản phẩm tính phí bán được. Phí này sẽ phân bổ đồng đều cho toàn bộ nhà đầu tư tương ứng với số cổ phần họ nắm giữ.
+đương nhiên, công ty cũng nắm giữ một số phần trăm cổ phần nên cũng sẽ được chia lợi nhuận. Số tiền này sẽ dùng cho duy trì hoạt động và phát triển sản phẩm.
+Ngoài ra, nhà đầu tư có thể dùng token để mua sản phẩm, giá trị token đc quy đổi theo tỷ giá hiện hành.
+
+3.valuation
+User: Our goal is create a conveniently and easily marketplace for user.
+with ezmarket, you not need to provide too much personal infomations, no credit card, no bank account or paypal account...
+The only thing you need is a cryptocurrency address (Bitcoin, Eth,...).
+With the new method of payment, we will reduce the cost of the payment system.
+Therefore, the authors fees will be greatly reduced compared to the current services.
+This will benefit both the author and the buyer. Help increase the number of users, increase profits for investors.
+
+Investor:
+Ezmarket will charge a fee for each product sold.
+This fee will be equally distributed to the entire investors corresponding to the number of shares they hold.
+The company also holds a percentage of the shares so we will also be distributed profit.
+This amount will be used for product maintenance and development.
+EZM token also can trade on some exchanges
+
+4. Token
+
+5. User flow
+Author: 
+Đăng ký tài khoản (không bắt buộc). 
+Upload sản phẩm và mô tả theo quy chuẩn chúng tôi đưa ra. 
+Định giá sản phẩm.
+Công ty sẽ duyệt và quyết định sản phẩm có thể rao bán hay không.
+
+User:
+Đăng ký tài khoản (không bắt buộc)
+Tìm kiếm sản phẩm phù hợp.
+Chuyển tiền để download sp.
+(https://creately.com)
+
+chi phí tác giả:
+Có 2 loại phí chính dành cho tác giả khi tham gia vào hệ thống chúng tôi.
++ đối với tác giả vãng lai (không đăng ký tài khoản): mức phí cố định là 35% trên tổng doanh thu của từng sản phẩm.
+
++ đối với tác giả thường xuyên (đã đăng ký tài khoản): mức phí khởi điểm cũng là 25% trên tổng doanh thu của từng sản phẩm.
+Mức phí này sẽ giảm dần dựa vào một số tiêu chí như: số sản phẩm đã bán, tổng doanh thu đạt được, số điểm nhận xét từ ng mua. 
+và không thấp hơn quá 10%
+
+Ngoài ra chúng tôi cũng có chính sách giảm giá cho người giới thiệu.
+
+5. Author's fee: We have two types of fee apply for user who want to sell their products on our system.
+ - For current authors (no account registration): fixed fee is 35% of total revenue of each product.
+ - For regular authors (registered account): the starting fee is 25% of total revenue of each product.
+   This fee will be descrease base on some criteria such as the total sales achieved, the score from the purchase.
+   And not less than 10%
+In addition, we also have discount policy for the referral.
+
+- Compare to other marketplaces, they have 55% fee for Non-Exclusive Author and for Exclusive Author is 37.5% descrease to 12.5%.
+We are confident we are the cheapest supplier.
+Beside, we have another worth functions as Immediately withdraw, Secure payment and  Privacy
+
+6. ICO
+Buying our EZMarket Tokens will be open to everyone in the form of a crowdsale by pledging
+Ethereum into the smart contract.
+token name: EZMarket (EZM)
+start date: 15/9/2017
+end date:   15/10/2017
+max cap: 100,000,000 EZM
+min goal: 10,000,000
+accept currentcy: eth
+rate: 1 ETH = 1,000 ezm
+
+bonuses:
+the first 3 days: +20%
+the next 7 days: +10%
+the next 10 days: +5%
+after 20 days: no bonus
+
+(piece chart)
+
+The funds raised under the ICO will be distributed as follows:
+Development - 50%
+Marketing - 30%
+to cover operational costs - 15%
+To cover legal expenses - 5%
+
+7. Roadmap
+(roadmap)
+
+8. Contacts and reference
+
+email:
+slack:
+twitter: https://twitter.com/ezmarketsupport
+facebook:
+reddit:
+bittcoin talk:

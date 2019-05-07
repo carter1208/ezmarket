@@ -1,0 +1,22 @@
+project name: EZMarket
+
+desc:
+EZMarket is the first code market base on blockchain technology.
+We want to create a maketplace where you can buy or sell all assets for project development (code scripts, templates, plugins, photos,...) on the easiest way.
+Payment will very fast, simple and safe with cryptocurrency"
+email: contact@ezmarket.io
+website: https://ezmarket.io
+fb: https://www.facebook.com/EZMarket-112233276141456/
+tw: https://twitter.com/ezmarketsupport
+medium: ?
+bitcointalk: ?
+slack: https://ezmarketteam.slack.com/
+token:
+ name: EZMarket
+ symbol: EZM
+ max cap: 150,000,000
+ round: 1
+ pre-sale time: Sunday, October 1, 2017 10:00:00 AM (GMT)
+ start time: Saturday, October 14, 2017 10:00:00 AM (GMT)
+ end time: Saturday, November 25, 2017 10:00:00 AM (GMT)
+ accept currency: ETH

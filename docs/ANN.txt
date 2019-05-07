@@ -1,0 +1,73 @@
+ezmarket
+<logo> https://drive.google.com/open?id=0B0Ps8aaOF1pmYWtiQUw2N1hrWWM
+site: https://ezmarket.io/
+wp: https://ezmarket.io/assets/wpen.pdf
+facebook = https://www.facebook.com/EZMarket-112233276141456/
+twitter = https://twitter.com/ezmarketsupport
+slack = https://join.slack.com/t/ezmarketteam/shared_invite/enQtMjQ2NzEyMzU2NTMxLTM2M2E1ZjE1MDA2NDEwYjAyOTU2YjM4NzU1NWNjYmU1OGQwMTJlYWFmMzA4ZjhhYzE3OGVkMWQ4NTJjMjdiZDg
+reddit = https://www.reddit.com/user/EZMarket/
+bitcointalk = https://bitcointalk.org/index.php?topic=2215239
+blog: 
+https://medium.com/@ezmarketteam/https-medium-com-ezmarketteam-ezmarket-the-new-way-to-trading-digital-assets-e6560f9397cb
+https://coins.newbium.com/post/9523-ezmarket-smart-solutions-powered-market-online
+
+
+team:
+Yann Le Gentil: https://www.linkedin.com/in/ylegentil/
+Peter Arnoldi: https://www.linkedin.com/in/peterarnoldi/
+Subodh Kaushik: https://www.linkedin.com/in/subodhkaushik/
+Ballard Pham: https://www.linkedin.com/in/ballard-pham-84642575/
+Leonid Yeromin: https://www.linkedin.com/in/leonid-yeromin-44610456/
+Alyona Matakova: https://www.linkedin.com/in/alyonamatakova/
+
+Yann Le Gentil. Peter Arnoldi. Subodh Kaushik. Ballard Pham. Leonid Yeromin. Alyona Matakova
+
+1. Yann Le Gentil (Founder & CTO) 2. Peter Arnoldi (Advisor) 3. Subodh Kaushik (Project Manager) 4. Ballard Pham (Developer) 5. Leonid Yeromin (Developer) 6. Alyona Matakova (Developer)
+
+1.Yann Le Gentil (Technical Quality Manager. Business Intelligence, SAP, Data Warehousing, Business Strategy, Master Data Management).
+2.Peter Arnoldi (Business Strategy, Sales, CRM, ERP, Startup, Project Manager, E-Commerce). Subodh Kaushik (Business Development Manager.
+3.Technical Leadership, Solution Architecture, Managing Distribution Channels, Enterprise Software).
+4.Ballard Pham (Web developer. AngularJS, React, Flux, CSS, Bootstrap, MySQL, Javascript, Backbone, jQuery).
+5.Leonid Yeromin (Frontend developer. JavaScript, Node.js, JQuery Mobile, HTML, CSS, PHP, Sympony, MySQL, Ruby on Rails, Python).
+6.Alyona Matakova (She is Senior Frontend Developer. Web development, HTML, Javascript, CSS, Drupal, PHP, Adobe Photoshop)
+
+intro:
+The EZMarket is a marketplace for digital assets based on blockchain technology.
+We serve for trading digital assets: code script, plugin, tutorial guides, themes, templates, photos,...
+Payment will very fast, simple and safe with cryptocurrency
+Our goal is creating a convenient and fast shopping process for our users.
+
+The EZMarket is a marketplace based on blockchain technology. We serve for trading digital assets: code script, plugin, tutorial guides, themes, templates, photos,... Payment will very fast, simple and safe with cryptocurrency. Our goal is creating a convenient and fast shopping process for our users.
+
+
+We are currently at ICO stage to collect funds for development stage. Minimum amounts is 5000ETH and maximum is 144000ETH. This funds will be distributed as follow: development(60%), marketing(25%), operation(5%), reserve(10%)
+
+contact:
+Alyona Matakova
+ezmarketteam@gmail.com
+
+token info:
+name: EZMarket
+symbol: EZM
+max supply: 150 000 000
+ico supply: 114 000 000
+
+
+ico:
+presale start:Sunday, October 1, 2017 10:00:00 AM (GMT)
+crowdsale start: Saturday, October 14, 2017 10:00:00 AM (GMT)
+crowdsale end: Saturday, November 25, 2017 10:00:00 AM (GMT)
+rate: 1eth = 1000 ezm
+bonus:
+presale: +50%
+crowdsale:
+week 1: +30%
+week 2: +25%
+week 3: +20%
+week 4: +15%
+week 5: +10%
+after: no bonus
+charts
+
+Our profit in future will be equally distributed to the entire token holders
+bounty campaign: <link to bounty thread>

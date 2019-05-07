@@ -1,0 +1,43 @@
+.home {
+  h1 {
+    font-size: 60px;
+  }
+  .home-content {
+    margin: auto;
+    max-width: 900px;
+    p {
+      padding: 0px 40px;
+      line-height: 40px;
+    }
+  }
+  text-align: center;
+  padding-top: 100px;
+
+  //background:
+  background: url("/../assets/bgColor.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  @media (max-width: 992px) {
+    background: $bg-home;
+  }
+  color: white;
+  .countdown {
+    margin-top: 50px;
+    .count-number {
+      font-size: 80px;
+      font-weight: 800;
+      border: 1px solid;
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      vertical-align: middle;
+      display: grid;
+      align-content: center;
+      /* align-items: center; */
+      margin: auto;
+    }
+    .count-label {
+      margin-top: 10px;
+    }
+  }
+}

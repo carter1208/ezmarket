@@ -1,0 +1,28 @@
+{
+  "menu": {
+    "home": "Home",
+    "ticket": "Section1",
+    "winner": "Section2",
+    "faq": "Faq",
+    "setting": "Setting",
+    "referer": "Referer",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "faq": {
+    "q1": "Question 1",
+    "a1": "Answer 1",
+    "q2": "Question 2",
+    "a2": "Answer 2",
+    "q3": "Question 2",
+    "a3": "Answer 2",
+    "q4": "Question 3",
+    "a4": "Answer 3",
+    "q5": "Question 4",
+    "a5": "Answer 4",
+    "q6": "Question 5",
+    "a6": "Answer 5",
+    "q7": "Question 6",
+    "a7": "Answer 6"
+  }
+}

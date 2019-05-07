@@ -1,0 +1,45 @@
+.video {
+  .container {
+    text-align: center;
+    .content {
+      text-align: left;
+      .row {
+        margin-top: 20px;
+        .col-lg-4.col-sm-6 {
+          .item {
+            border: 1px solid #dddddd;
+            text-align: center;
+            background-color: white;
+            cursor: pointer;
+            width: 370px;
+            img {
+              margin-top: 5px;
+            }
+            .vid {
+              position: absolute;
+              z-index: 999;
+              width: 390px;
+              height: 225px;
+            }
+            .stat {
+              margin-bottom: 20px;
+              width: 370px;
+              .star {
+                margin-left: 10px;
+                float: left;
+                img {
+                  margin: 3px;
+                }
+              }
+              .price {
+                margin-left: 0;
+                float: right;
+                width: 70px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

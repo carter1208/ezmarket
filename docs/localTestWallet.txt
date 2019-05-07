@@ -1,0 +1,63 @@
+acc1:
+0xeB7d37772F3AdE3DcA88D67cAcc0C53eEb23dCd6
+
+acc2:
+0x8fa262C38c93D5FC6FFfc8F3ce0384BeaDb26035
+
+==FINAL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+token C: 0xE38FE89CDB45FAe0333b5dD93C6793C7E024343A
+contract: 
+0xC53736e3811f187fDDAeBAD0817edfcc7EC942c9
+
+contract with params:
+0x1C397D3183F559cdF9416B24e4c0eCEBD7224469
+
+params:
+arg1:0x8fa262C38c93D5FC6FFfc8F3ce0384BeaDb26035
+(0000000000000000000000008fa262c38c93d5fc6fffc8f3ce0384beadb26035)
+arg2:0xE38FE89CDB45FAe0333b5dD93C6793C7E024343A
+(000000000000000000000000e38fe89cdb45fae0333b5dd93c6793c7e024343a)
+
+==ezm===============================================================================
+deposit: 0x8fa262C38c93D5FC6FFfc8F3ce0384BeaDb26035
+token: 0x7018CfEB97f15c1c52007b40e284539B6114e1db
+
+contracts: 0x6A0A3CB6a617ab1bB1E344569D999AD660463E38
+test: 
+\\\\\\\\\\\\\\\\\\\\\\\\\
+deposit: 0x8fa262C38c93D5FC6FFfc8F3ce0384BeaDb26035
+token: 
+
+contracts: 
+
+======================================================================================
+
+acc3:
+0x49cf000b870915e5C976E5De131d0335b3CE9B85
+==cheat token C at:
+0x4868B4283c60b92C431E23E0124403d266436BC9
+
+acc4:
+0xD43210A2c68a21418eE46A370AAF57F074C830f8
+acc5: 
+0x6CB1769BB0a35f593D6113ecBD091864E56c1765
+
+====
+
+1. create token -> pass param owner
+0x6CB1769BB0a35f593D6113ecBD091864E56c1765
+token: 
+0xAc3933F1B38BD6570F51DDF93890e6FA5D2424b1
+2. call function set miner (from owner address):
+miner: 0x6CB1769BB0a35f593D6113ecBD091864E56c1765
+3. create contract at miner address (so it can mint token)
+contract: 
+
+
+
+
+
+
+
+
+
